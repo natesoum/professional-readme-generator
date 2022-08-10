@@ -17,8 +17,10 @@
 
   Here is a video link & a qr code that will bring you to the video that will give you a brief walkthrough of my application, hope you enjoy thank you!
 
-  ![Video Walkthrough](https://drive.google.com/file/d/1rs0WpeuOFjYgVbgC-pcnWtmFSxb05pd6/view) 
-  ![QR Code](./assets/images/qr-code.jpg)
+  ![Video Walkthrough](https://drive.google.com/file/d/1rs0WpeuOFjYgVbgC-pcnWtmFSxb05pd6/view)
+
+  ![QR Code](./assets/images/qrcode.jpg) 
+  
 
   ## Installation
 
