@@ -1,4 +1,4 @@
-# Professional README generator
+# Professional README Generator
 
 
 ![badge](https://img.shields.io/badge/license-mit-brightgreen)
@@ -15,21 +15,21 @@
 
   ## Description
 
-  My biggest motivation was to cut time when creating README's for my project. 
-
-  I built this project to shorten time when creating a professional README
+  test
 
   test
 
-  test tete te te t e t
+  test
+
+  test
 
   ## Installation
 
-  t ete te t et e t et
+  test
 
   ## Usage
 
-  t e te t et e te t t e t
+  test
 
   ## Credits
 
@@ -41,11 +41,11 @@
 
   ## Contributions
 
-  Not accepting contributions at this time, thank you! 
+  test
 
   ## Test
 
-  Test
+  test
 
   ## Questions
 

@@ -15,9 +15,14 @@
 
   This project helped me learn a lot! It helped me learn the basics of node and learned how to include libraries in my script files. I learned about inquirer which helped me explore the terminal and gathering user input and be able to paste their responses on a generated page. This was an awesome project that I will use often for every project! 
 
+  Here is a video link & a qr code that will bring you to the video that will give you a brief walkthrough of my application, hope you enjoy thank you!
+
+  ![Video Walkthrough](https://drive.google.com/file/d/1rs0WpeuOFjYgVbgC-pcnWtmFSxb05pd6/view) 
+  ![QR Code](./assets/images/qr-code.jpg)
+
   ## Installation
 
-  You can install this program by cloning the repo, opening the program in your preferred IDE.
+  You can install this program by cloning the repo & opening the program in your preferred IDE.
 
   ## Usage
 

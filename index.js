@@ -165,14 +165,14 @@ const questions = [
 // Function to create the generated README
 function writeToFile(fileName, data) {
     fs.writeFile(`./dist/${fileName}`,(data), (err) => 
-        err ? console.log(err) : console.log(data))
+        err ? console.log(err) : console.log("Custom Professional README successfully created!"))
 };
 
 // Inquirer prompts questions and displays responses to generated README
 inquirer.prompt(questions)
 .then(response => {
-    console.log(response)
+    // console.log(response)
     const markdown = generateMarkdown(response);
-    console.log(markdown)
+    // console.log(markdown)
     writeToFile('generated-README.md', markdown)
 }); 
